@@ -152,7 +152,7 @@ footer a {
     color: red;
     text-shadow: 4px 4px 10px cyan;
     text-align: center;
-    background: -webkit-linear-gradient(orange, orange, cyan);
+    background: -webkit-linear-gradient(deeppink, pink, cyan);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
