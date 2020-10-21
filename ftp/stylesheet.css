@@ -63,7 +63,13 @@ hr {
 
 .fellow  {
     display: flex;
-    justify-content: space-evenly
+    justify-content: space-evenly;
+
+}
+.fellow p {
+    text-align: center;
+    color: sienna;
+    font-weight: bold;
 }
 .centertitle {
     text-align: center;
