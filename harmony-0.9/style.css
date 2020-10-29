@@ -1,0 +1,64 @@
+/* <--General stylesheet--> */
+
+/* HEADER */
+
+header{
+    display: inline-flex;
+    background: rgb(66, 109, 73);
+    width: 100%;
+    border-bottom:rgb(142, 199, 116) solid 2px;
+    position: relative;
+    
+}
+.logo {
+    width : 10vw;
+}
+
+
+/* HEADER/Menu */
+
+.nav {
+    padding : 0;
+    margin : 0
+}
+.navbar {
+    width: 80%;
+    margin: auto;
+}
+.navbar ul li {
+    display: inline-flex;
+    list-style: none;
+    vertical-align: middle;
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    display: inline-flex;
+    background: rgb(20, 46, 24);
+    border-radius: 5%;
+    padding: 20px 50px;
+    margin-right: 20px;
+}
+.navbar ul li a:hover{
+    color:rgb(20, 46, 24);
+    background :white;
+}
+
+/* --- MAIN --- */
+body {
+    margin : 0;
+    padding : 0;
+    font-family: 'Advent Pro', sans-serif;
+    background: rgb(25, 61.1, 30.9);
+}
+
+
+h1 {
+    color : whitesmoke;
+    text-align : center;
+    padding: 20px;
+    margin: 0;
+    text-shadow: 1px 1px 10px white;
+}
+
