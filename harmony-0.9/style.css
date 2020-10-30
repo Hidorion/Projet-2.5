@@ -62,3 +62,14 @@ h1 {
     text-shadow: 1px 1px 10px white;
 }
 
+.logomove {
+    height:500px;
+    width:500px;
+    background: url('assets/Harmony.png');
+    margin:auto;
+}
+
+.logomove:hover {
+    cursor:pointer; 
+    background:url('assets/Harmony.gif');
+}
